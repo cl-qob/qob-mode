@@ -5,6 +5,8 @@
 # qob-mode
 > Major mode for editing Qob files
 
+[![CI](https://github.com/cl-qob/qob-mode/actions/workflows/test.yml/badge.svg)](https://github.com/cl-qob/qob-mode/actions/workflows/test.yml)
+
 ## 🔨 Usage
 
 `Qob` file is just a regular Common Lisp file, but use to explicitly differentiate
