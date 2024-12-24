@@ -1,0 +1,8 @@
+(files "lisp"
+       "scripts"
+       "Makefile"
+       "LICENSE"
+       "Qob")
+
+(source "quicklisp")
+(source "ultralisp")
